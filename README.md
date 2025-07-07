@@ -1,7 +1,3 @@
-Claro, aquí tienes el contenido adaptado para incluirlo en un archivo `README.md` con el formato adecuado de Markdown:
-
----
-
 # Clasificador Automático de Tickets de Soporte
 
 ## 🎯 Objetivo del Proyecto
@@ -16,7 +12,6 @@ El sistema busca identificar de manera eficiente si un ticket es **"Urgente"** o
 
 El enfoque está orientado a entornos de **retail y e-commerce**.
 
----
 
 ## 👥 Participantes
 
@@ -24,7 +19,6 @@ El enfoque está orientado a entornos de **retail y e-commerce**.
 * **Carlos Alejandro Molina Huatuco** - U20211G139
 * **Ian Joaquin Sanchez Alva** - U202124676
 
----
 
 ## 📂 Descripción del Dataset
 
@@ -37,9 +31,6 @@ Este dataset incluye información relevante como:
 * Descripción del problema
 * Prioridad asignada
 
-> Para un análisis detallado de la estructura, variables y el Análisis Exploratorio de Datos (EDA), consulta el informe completo del proyecto.
-
----
 
 ## 📊 Conclusiones
 
